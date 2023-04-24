@@ -1,0 +1,14 @@
+.navbar-nav{
+    font-size: 19px;
+}
+.ft-height{
+    height: 9rem;
+}
+.pstn{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.home{
+    padding-top: 7rem;
+}
