@@ -1,3 +1,7 @@
+*{
+    font-family: sans-serif;
+}
+
 .navbar-nav{
     font-size: 19px;
 }
@@ -11,4 +15,15 @@
 }
 .home{
     padding-top: 7rem;
+}
+.size {
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-muted {
+    margin-top: 0px;
+}
+.txt {
+    font-size: 13px;
+    letter-spacing: 0.2rem;
 }
