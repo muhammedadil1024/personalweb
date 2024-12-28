@@ -1,6 +1,6 @@
 # Personal website Template
 
-![Demo App](/images/demo-netflix.png)
+![Demo App](/images/demo-personalweb.png)
 
 This is a Personal or Portfolio website Template
 
